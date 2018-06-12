@@ -1,0 +1,3 @@
+pl\billennium\bigdata\mr\TwitterAuthorsCounter.class
+pl\billennium\bigdata\mr\TwitterAuthorsCounter$AuthorRetriveMapper.class
+pl\billennium\bigdata\mr\TwitterAuthorsCounter$IntSumReducer.class
